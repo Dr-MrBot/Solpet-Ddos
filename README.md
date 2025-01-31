@@ -2,8 +2,6 @@
 
 **Solpet-Maper** is a tool that allows you to track the location of a mobile number in real-time. This repository contains scripts and configurations that help you to map the geographic location of a phone number using publicly available data.
 
-![Solpet-Maper Screenshot](images/solpet-maper-screenshot.png)
-
 **Important:** This tool is intended for educational and ethical purposes only. Always ensure that you have explicit permission before tracking any number.
 
 ## Features
@@ -12,6 +10,10 @@
 - Simple command-line interface.
 - Supports real-time location updates.
 - Works with publicly available mobile number databases.
+
+## Preview
+![Solpet-Maper Screenshot](img.png)
+
 
 ## Prerequisites
 
@@ -30,9 +32,8 @@ To install and run the tool, follow these steps:
    ```bash
    git clone https://github.com/Dr-MrBot/Solpet-Maper.git
    cd Solpet-Maper
-
    chmod +x Solpet.sh
    bash Solpet.sh
-## Disclaimer
 
+## Disclaimer
 WARNING: Unauthorized tracking of mobile numbers is illegal and may result in severe consequences, including criminal charges. This tool is intended for educational purposes only. Always ensure you have explicit permission from the phone number's owner before attempting to track their location. The creator and contributors of this tool do not take responsibility for any misuse of this software.
